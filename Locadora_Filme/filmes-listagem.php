@@ -11,8 +11,11 @@
     <table>
         <tr>
             <td>Id</td>
+            <td>|</td>
             <td>Nome</td>
+            <td>|</td>
             <td>História</td>
+            <td>|</td>
             <td>Ano de lançamento</td>
         </tr>
     </table>
